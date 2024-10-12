@@ -1,0 +1,9 @@
+<h1>WELCOME, PLEASE LOGIN</h1>
+
+<form [formGroup]="logForm" (ngSubmit)="onSubmit()">
+    <input id="formMail" formControlName = "email" >
+    <input id="formPassword" formControlName = "password">
+    <button type="submit"  [disabled]="logForm.invalid">LogIn</button>
+
+</form>
+

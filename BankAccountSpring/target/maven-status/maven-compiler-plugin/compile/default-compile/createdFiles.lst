@@ -1,0 +1,9 @@
+com/Bank/Application/Controllers/UsersControllers/CredentialsController.class
+com/Bank/Application/Entities/DTO/UserDTO.class
+com/Bank/Application/Application.class
+com/Bank/Application/Entities/DTO/CardDTO.class
+com/Bank/Application/Entities/User.class
+com/Bank/Application/Controllers/UsersControllers/UsersController.class
+com/Bank/Application/Entities/DTO/AccountDTO.class
+com/Bank/Application/Entities/Card.class
+com/Bank/Application/Entities/Account.class
